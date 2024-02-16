@@ -1,12 +1,36 @@
-<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_71_50)">
-<rect width="100" height="100" rx="10" fill="white"/>
-<path d="M13.7806 72.55C17.7406 72.55 20.7839 72.44 22.9106 72.22C25.0372 72 26.5772 71.45 27.5306 70.57C28.5572 69.6167 29.1439 68.26 29.2906 66.5C29.4372 64.1533 29.5106 61.7333 29.5106 59.24V12.82H51.5106V51.76C51.5106 58.8 51.4006 64.19 51.1806 67.93C50.9606 71.67 50.4839 74.7867 49.7506 77.28C48.9439 79.9933 47.7339 82.12 46.1206 83.66C44.5806 85.1267 42.4172 86.2267 39.6306 86.96C37.0639 87.62 33.8372 88.06 29.9506 88.28C26.1372 88.4267 20.7472 88.5 13.7806 88.5V72.55Z" fill="#1F1F1F"/>
-<path d="M65.3491 70.57H87.5691V88.5H65.3491V70.57Z" fill="#E38445"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#1F1F1F;}
+	.st3{fill:#E38445;}
+	.st4{font-family:'Bauhaus93';}
+	.st5{font-size:100px;}
+	.st6{fill:#DB852D;}
+</style>
+<g id="Layer_1">
+	<g>
+		<defs>
+			<path id="SVGID_1_" d="M10,0h80c5.5,0,10,4.5,10,10v80c0,5.5-4.5,10-10,10H10c-5.5,0-10-4.5-10-10V10C0,4.5,4.5,0,10,0z"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st0">
+			<path class="st1" d="M10,0h80c5.5,0,10,4.5,10,10v80c0,5.5-4.5,10-10,10H10c-5.5,0-10-4.5-10-10V10C0,4.5,4.5,0,10,0z"/>
+			<path class="st2" d="M13.8,72.5c4,0,7-0.1,9.1-0.3c2.1-0.2,3.7-0.8,4.6-1.7c1-1,1.6-2.3,1.8-4.1c0.1-2.3,0.2-4.8,0.2-7.3V12.8h22
+				v38.9c0,7-0.1,12.4-0.3,16.2c-0.2,3.7-0.7,6.9-1.4,9.3c-0.8,2.7-2,4.8-3.6,6.4c-1.5,1.5-3.7,2.6-6.5,3.3
+				c-2.6,0.7-5.8,1.1-9.7,1.3c-3.8,0.1-9.2,0.2-16.2,0.2V72.5z"/>
+			<path class="st3" d="M65.3,70.6h22.2v17.9H65.3V70.6z"/>
+		</g>
+	</g>
+	<rect x="9.1" y="8.5" class="st1" width="48.9" height="83.2"/>
+	<rect x="62.6" y="63.1" class="st1" width="25.4" height="27.2"/>
 </g>
-<defs>
-<clipPath id="clip0_71_50">
-<rect width="100" height="100" rx="10" fill="white"/>
-</clipPath>
-</defs>
+<g id="Layer_2">
+	<text transform="matrix(1 0 0 1 3.9492 85.3865)"><tspan x="0" y="0" class="st4 st5">T</tspan><tspan x="51.5" y="0" class="st6 st4 st5">S</tspan></text>
+</g>
 </svg>
