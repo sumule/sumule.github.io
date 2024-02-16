@@ -1255,7 +1255,7 @@ textarea.input-field {
    * PROJECT
    */
 
-  .project-list { column-count: 3; }
+  .project-list { column-count: 2; }
 
   .project-list > li:first-child {
     column-span: unset;
