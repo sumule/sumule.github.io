@@ -178,6 +178,8 @@ body.active { overflow: hidden; }
 
 .container { padding-inline: 10px; }
 
+
+
 .h1 {
   font-size: var(--fs-1);
   line-height: 1.2;
@@ -197,6 +199,10 @@ body.active { overflow: hidden; }
 .h3 { font-size: var(--fs-3); }
 
 .h4 { font-size: var(--fs-5); }
+
+.hinfo { font-size: var(--fs-7);
+  color: var(--color-secondary);
+padding-bottom: 30px; }
 
 .w-100 { width: 100%; }
 
@@ -574,6 +580,34 @@ main { overflow-x: hidden; }
 
 
 
+/*-----------------------------------*\
+ * #PORTOFOLIO
+\*-----------------------------------*/
+
+.portofolio { padding-block: var(--section-padding); }
+
+.portofolio-banner {
+  max-width: 1400px;
+  margin-inline: auto;
+  margin-bottom: 80px;
+}
+
+.portofolio .btn {
+  max-width: unset;
+  width: 100%;
+}
+
+.portofolio .btn-secondary { margin-bottom: 10px; }
+
+.portofolio-content {
+  width: 100%;
+}
+
+.portofolio-text {
+  color: var(--color-secondary);
+  line-height: 1.8;
+  margin-bottom: 15px;
+}
 /*-----------------------------------*\
  * #SKILLS
 \*-----------------------------------*/
