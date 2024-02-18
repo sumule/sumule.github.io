@@ -608,6 +608,13 @@ main { overflow-x: hidden; }
   line-height: 1.8;
   margin-bottom: 15px;
 }
+
+.portofolio-list1 {
+  color: var(--color-secondary);
+  line-height: 1.8;
+  margin-bottom: 15px;
+  margin-left: 45px;
+}
 /*-----------------------------------*\
  * #SKILLS
 \*-----------------------------------*/
