@@ -609,6 +609,11 @@ main { overflow-x: hidden; }
   margin-bottom: 15px;
 }
 
+.portofolio-list0 {
+  color: var(--color-secondary);
+  line-height: 1.8;
+}
+
 .portofolio-list1 {
   color: var(--color-secondary);
   line-height: 1.8;
