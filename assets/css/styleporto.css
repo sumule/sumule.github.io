@@ -19,7 +19,10 @@
   /**
    * colors
    */
+<<<<<<< HEAD
    
+=======
+>>>>>>> 977b8c4 (message 1)
 
   --raw-seinna: hsl(24, 74%, 58%);
   --sizzling-sunrise: hsl(51, 95%, 54%);
@@ -115,6 +118,10 @@ body.light_theme {
   box-sizing: border-box;
 }
 
+<<<<<<< HEAD
+=======
+li { list-style: none; }
+>>>>>>> 977b8c4 (message 1)
 
 a { text-decoration: none; }
 
@@ -1369,4 +1376,8 @@ textarea.input-field {
 
   .about-banner { max-width: 450px; }
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 977b8c4 (message 1)
